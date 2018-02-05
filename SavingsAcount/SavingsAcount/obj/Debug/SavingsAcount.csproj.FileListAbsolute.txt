@@ -1,0 +1,2 @@
+Z:\практика трпо\лаба 1\example6\SavingsAcount\SavingsAcount\obj\Debug\SavingsAcount.csprojResolveAssemblyReference.cache
+Z:\практика трпо\лаба 1\example6\SavingsAcount\SavingsAcount\obj\Debug\SavingsAcount.csproj.CoreCompileInputs.cache
